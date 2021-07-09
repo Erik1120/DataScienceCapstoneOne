@@ -33,4 +33,4 @@ isFlaggedFraud - The business model aims to control massive transfers from one a
 
 
 Acknowledgement:
-https://www.kaggle.com/ntnu-testimon/paysim1
+https://www.kaggle.com/ealaxi/paysim1
