@@ -11,7 +11,7 @@ There are problems where a class imbalance in a dataset like our current fraudul
 > * [Kaggle](https://www.kaggle.com/ealaxi/paysim1)
 
 
-
+### 2. Method
 
 
 
