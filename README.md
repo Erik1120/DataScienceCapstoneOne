@@ -6,6 +6,15 @@ Paysim is a mobile money transfer service provider that is currently serving 14 
 
 ### 1. Data
 
+There are problems where a class imbalance in a dataset like our current fraudulent transactions dataset. For example, the vast majority will be in the "Non-Fraud" class, and a tiny minority will be in the "Fraud" class. The Paysim dataset is based on a sample of actual transactions extracted from one month of financial logs from a mobile money service implemented in an African country. This dataset contains 6,362,620 rows by 11 columns with 8,213 labeled as a "Fraud."
+
+
+
+
+
+
+
+
 
 Data Info:
 
