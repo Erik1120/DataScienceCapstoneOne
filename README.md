@@ -37,3 +37,4 @@ Logistic and Classification are two types of algorithms for binary classificatio
   1. Convert categorical variables into dummy/indicator variables using pandas function and standardizing values to any distance-based machine learning algorithms. 
   2. Due to the imbalance dataset, multiple libraries are used to up/down-sample dataset for machine learning. 
  
+### 5. Algorithms & Machine Learning
