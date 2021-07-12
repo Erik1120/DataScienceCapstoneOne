@@ -28,4 +28,5 @@ Logistic and Classification are two types of algorithms for binary classificatio
 
 > * [EDA Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/data_engineering.ipynb)
 
+* There are five transaction types in our dataset, and all the frauds are in two transaction types. 
 ![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figurebarplot.png)
