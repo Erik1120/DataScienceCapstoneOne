@@ -38,3 +38,4 @@ Logistic and Classification are two types of algorithms for binary classificatio
   2. Due to the imbalance dataset, multiple libraries are used to up/down-sample dataset for machine learning. 
  
 ### 5. Algorithms & Machine Learning
+> * [ML Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/MachineLearning.ipynb)
