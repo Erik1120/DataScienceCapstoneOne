@@ -17,3 +17,7 @@ Logistic and Classification are two types of algorithms for binary classificatio
 
 1. **Bagging:** is to reduce the variance of the decision tree classifier by averaging predictions from all the tress. Also, it reduces the over-fitting of the model and handles higher dimensionality data very well. 
 2. **Boosting:**  is used to create a collection of predictors by learners who are learned sequentially by analyzing data for errors. The purpose of this process is to improve the accuracy from prior tress by increasing the weight of wrongly classified items so that they can more likely be classified correctly on the next iteration. 
+
+** 3. Data Cleaning
+
+> * [Data Cleaning Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/data_wrangling_EDA.ipynb)
