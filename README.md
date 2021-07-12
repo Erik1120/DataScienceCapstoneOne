@@ -28,4 +28,4 @@ Logistic and Classification are two types of algorithms for binary classificatio
 
 > * [EDA Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/data_engineering.ipynb)
 
-
+![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figurebarplot.png)
