@@ -31,5 +31,6 @@ Logistic and Classification are two types of algorithms for binary classificatio
 * There are five transaction types in our dataset, and all the frauds are in two transaction types. 
 ![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figurebarplot.png)
 
+* Removing 'newbalanceOrig', 'newbalanceDest' from the dataset. 
 ![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figureheatmap.png)
-* 'newbalanceOrig', 'newbalanceDest'
+
