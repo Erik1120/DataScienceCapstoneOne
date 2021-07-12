@@ -21,3 +21,5 @@ Logistic and Classification are two types of algorithms for binary classificatio
 ** 3. Data Cleaning
 
 > * [Data Cleaning Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/data_wrangling_EDA.ipynb)
+
+1. Fortunately, Paysim data was very clean and did not require any imputing of Data, including removing rows from the dataset. The biggest changes were to rename feature names for clarity, and two additional fields were added using existing fields to derive two new features. ("diffBalanceOrig" & "diffBalanceDest")
