@@ -30,3 +30,12 @@ Logistic and Classification are two types of algorithms for binary classificatio
 
 * There are five transaction types in our dataset, and all the frauds are in two transaction types. 
 ![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figurebarplot.png)
+
+* Removing 'newbalanceOrig', 'newbalanceDest' from the dataset. 
+![](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/images/figureheatmap.png)
+
+  1. Convert categorical variables into dummy/indicator variables using pandas function and standardizing values to any distance-based machine learning algorithms. 
+  2. Due to the imbalance dataset, multiple libraries are used to up/down-sample dataset for machine learning. 
+ 
+### 5. Algorithms & Machine Learning
+> * [ML Notebook](https://github.com/Erik1120/DataScienceCapstoneOne/blob/main/Notebook/MachineLearning.ipynb)
